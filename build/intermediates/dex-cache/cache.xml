@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\ANDROID\Design-Demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="F:\ANDROID\Design-Demo\app\build\intermediates\pre-dexed\debug\classes-5392d2efa6dcc3d936f019af586275fa679550c6.jar" />
+    </item>
+    <item
+        jar="F:\DANE\Indices\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="F:\DANE\Indices\app\build\intermediates\pre-dexed\debug\classes-4f00d0c5040cfbd2027b768b92f02482ac09be69.jar" />
+    </item>
+    <item
+        jar="C:\Users\andres\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="F:\ANDROID\Design-Demo\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-2972e418c49f4d22cdf612678db5617247c39205.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID\Design-Demo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="F:\ANDROID\Design-Demo\app\build\intermediates\pre-dexed\debug\classes-7ebf6db3fe57f6dbcbb9d7818f05bf186b2eaa7a.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID\Design-Demo\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="F:\ANDROID\Design-Demo\app\build\intermediates\pre-dexed\debug\classes-e0ba049719e573fa23a75c43a2ac1c0cf1406820.jar" />
+    </item>
+    <item
+        jar="F:\DANE\Indices\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="F:\DANE\Indices\app\build\intermediates\pre-dexed\debug\classes-b08e1289819542252502b8d5f0f5e3ee46196e9b.jar" />
+    </item>
+    <item
+        jar="F:\DANE\Indices\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="F:\DANE\Indices\app\build\intermediates\pre-dexed\debug\classes-28b8b2726573b0b4cfa4268e4fc1f1e076a1b79d.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID\Design-Demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="F:\ANDROID\Design-Demo\app\build\intermediates\pre-dexed\debug\classes-0e867dda64a35e0644564efa08c02ee8233a6ed8.jar" />
+    </item>
+    <item
+        jar="F:\DANE\Indices\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="F:\DANE\Indices\app\build\intermediates\pre-dexed\debug\classes-9ada1e61c2522c7b9bce7ce04336e9f349437215.jar" />
+    </item>
+    <item
+        jar="F:\DANE\Indices\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="F:\DANE\Indices\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-fe7e3bf49d4f5fc8499de159725a98c7f09dd52c.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID\Design-Demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="F:\ANDROID\Design-Demo\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-4c8cdf2d25d1e99cdf95d4fbf133a83d4d9c1919.jar" />
+    </item>
+    <item
+        jar="F:\ANDROID\Design-Demo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="F:\ANDROID\Design-Demo\app\build\intermediates\pre-dexed\debug\classes-e08cbba551e380b60c8fea23ee0e2eee2b0260e2.jar" />
+    </item>
+    <item
+        jar="F:\DANE\Indices\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="F:\DANE\Indices\app\build\intermediates\pre-dexed\debug\classes-2d206e966332b4c681a4dfd79d99bb777c660b1a.jar" />
+    </item>
+
+</items>
